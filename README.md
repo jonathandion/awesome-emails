@@ -2,6 +2,9 @@
 
 > A collection of awesome frameworks, templates, tools, workflows and many more to build responsive emails. :fire:
 
+If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
+
+
 ## Frameworks
 
 - [Ink](https://github.com/zurb/ink) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
