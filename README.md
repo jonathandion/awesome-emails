@@ -47,7 +47,7 @@ VML and CSS.
 
 ## Design Patterns & Guides
 
-- [Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - This guide is a brief summary of email best practices.
+- [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - This guide is a brief summary of email best practices that we have learned from managing mail servers.
 - [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/) - I looked at the navigation of 50 responsive retail emails. Here is a breakdown of the patterns I discovered.
 
 ## Blogs
