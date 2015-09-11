@@ -54,7 +54,10 @@ VML and CSS.
 
 - [Litmus Blog](https://litmus.com/blog/)
 - [Stylecampaign Blog](http://stylecampaign.com/blog/)
-- [Myemma blog](http://myemma.com/content-hub)
+- [Myemma Blog](http://myemma.com/content-hub)
+- [Postmarkapp Blog](http://blog.postmarkapp.com/)
+- [Spently Blog](http://spently.com/blog/)
+- [Emailmonks Blog](http://www.emailmonks.com/blog/)
 
 
 
