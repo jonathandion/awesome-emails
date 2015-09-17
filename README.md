@@ -61,13 +61,6 @@ VML and CSS.
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
 
 
-## Statistics / Research
-
-- [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - 18 must-know stats for modern email marketers by Emma, Inc.
-- [Mailchimp Research](http://mailchimp.com/resources/research/) - MailChimp's researchers are constantly analyzing data to help you make the most of your email campaigns. 
-- [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing
-
-
 ## Resources
 
 - [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp
@@ -83,6 +76,11 @@ VML and CSS.
 - [Mailchimp Inspiration](http://inspiration.mailchimp.com/#all) - Mailchimp beautiful newsletters examples.
 - [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 
+## Statistics / Research
+
+- [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - 18 must-know stats for modern email marketers by Emma, Inc.
+- [Mailchimp Research](http://mailchimp.com/resources/research/) - MailChimp's researchers are constantly analyzing data to help you make the most of your email campaigns. 
+- [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing
 
 ## Testing
 
