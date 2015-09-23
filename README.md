@@ -34,10 +34,10 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ## Tools
 
-- [CSS Support](https://www.campaignmonitor.com/css/) - A complete breakdown of the CSS support for every popular mobile, web and desktop email client on the planet.
 - [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
 - [Bulletproof Background Images](http://backgrounds.cm/) - Use rock-solid background images in your HTML email with some help from
 VML and CSS.
+
 ## Workflows
 
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
@@ -48,6 +48,7 @@ VML and CSS.
 
 ## Design Patterns & Guides
 
+- [CSS Support](https://www.campaignmonitor.com/css/) - A complete breakdown of the CSS support for every popular mobile, web and desktop email client on the planet.
 - [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - This guide is a brief summary of email best practices that we have learned from managing mail servers.
 - [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/) - I looked at the navigation of 50 responsive retail emails. Here is a breakdown of the patterns I discovered.
 
@@ -66,6 +67,7 @@ VML and CSS.
 - [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp
 - [Litmus Resources](https://litmus.com/resources) - Stay up to date with the latest email news and trends with Litmus resources.
 - [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor resources will turn you into an expert in no time.
+- [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) - MailChimp Email Design Reference
 
 ## Inspirations
