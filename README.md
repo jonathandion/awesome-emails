@@ -42,6 +42,7 @@ VML and CSS.
 
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 - [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
+- [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
 
 #### Articles
 - [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) - An email design workflow by By Lee Munroe.
