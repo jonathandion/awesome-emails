@@ -16,7 +16,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Frameworks
 
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
-- [Ink](https://github.com/zurb/ink) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
+- [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 
 ## Templates
