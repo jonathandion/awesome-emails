@@ -104,6 +104,10 @@ VML and CSS.
 - [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) - Building Responsive Email Templates with Ink.
 - [Litmus learning](https://litmus.com/community/learning) - Litmus learning resources.
 
+## Misc
+
+- [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
