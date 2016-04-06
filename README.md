@@ -72,7 +72,7 @@ VML and CSS.
 - [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor resources will turn you into an expert in no time.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) - MailChimp Email Design Reference
-
+- [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 ## Inspirations
 
 - [Really good emails Codepen](http://codepen.io/reallygoodemails/)
@@ -103,10 +103,6 @@ VML and CSS.
 - [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches.
 - [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) - Building Responsive Email Templates with Ink.
 - [Litmus learning](https://litmus.com/community/learning) - Litmus learning resources.
-
-## Misc
-
-- [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 
 ## License
 
