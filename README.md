@@ -67,6 +67,7 @@ VML and CSS.
 
 ## Resources
 
+- [Email toolbox](http://email-toolbox.com/ - Hand-picked resources for email marketers and designers.
 - [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp
 - [Litmus Resources](https://litmus.com/resources) - Stay up to date with the latest email news and trends with Litmus resources.
 - [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor resources will turn you into an expert in no time.
