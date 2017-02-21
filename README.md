@@ -40,6 +40,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Bulletproof Background Images](http://backgrounds.cm/) - Use rock-solid background images in your HTML email with some help from
 VML and CSS.
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
+- [mailspice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
 
 ## Workflows
 
@@ -62,7 +63,7 @@ VML and CSS.
 - [Stylecampaign Blog](http://stylecampaign.com/blog/)
 - [Myemma Blog](http://myemma.com/content-hub)
 - [Postmarkapp Blog](http://blog.postmarkapp.com/)
-- [Spently Blog](http://spently.com/blog/)
+- [Spently Blog](https://blog.spently.com/)
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
 
 
@@ -89,6 +90,7 @@ VML and CSS.
 - [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - 18 must-know stats for modern email marketers by Emma, Inc.
 - [Mailchimp Research](http://mailchimp.com/resources/research/) - MailChimp's researchers are constantly analyzing data to help you make the most of your email campaigns. 
 - [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing
+- [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review
 
 ## Testing
 
