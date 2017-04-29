@@ -32,15 +32,22 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
+- [](https://github.com/seanpowell/Email-Boilerplate)
 
 ## Tools
-
+- [MJML App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
 - [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 - [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
 - [Bulletproof Background Images](http://backgrounds.cm/) - Use rock-solid background images in your HTML email with some help from
+
 VML and CSS.
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
 - [mailspice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
+
+## Services
+- [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
+- [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
+- [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 
 ## Workflows
 
@@ -76,6 +83,7 @@ VML and CSS.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) - MailChimp Email Design Reference
 - [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
+
 ## Inspirations
 
 - [Really good emails Codepen](http://codepen.io/reallygoodemails/)
