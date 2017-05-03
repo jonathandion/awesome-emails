@@ -107,6 +107,7 @@ VML and CSS.
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
 - [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - Send email tests to Litmus with grunt
 - [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
+- [SPAM mailtester](http://www.mail-tester.com/) - Test the Spammyness of your Emails
 
 ## Learning
 
