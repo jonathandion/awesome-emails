@@ -49,6 +49,7 @@ VML and CSS.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 - [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
+- [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
 ## Workflows
 
