@@ -32,7 +32,8 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
-- [](https://github.com/seanpowell/Email-Boilerplate)
+- [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
+- [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
 
 ## Tools
 - [MJML App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
@@ -75,6 +76,9 @@ VML and CSS.
 - [Spently Blog](https://blog.spently.com/)
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
 
+## Copy
+- [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
+- [greatemailcopy](http://greatemailcopy.com/) - A dose of well-crafted emails from around the web.
 
 ## Resources
 
@@ -84,7 +88,6 @@ VML and CSS.
 - [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor resources will turn you into an expert in no time.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) - MailChimp Email Design Reference
-- [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 
 ## Inspirations
 
