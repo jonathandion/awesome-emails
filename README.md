@@ -48,6 +48,7 @@ VML and CSS.
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
+- [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
 
 ## Workflows
 
