@@ -20,7 +20,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 
 ## Templates
-
 - [Campaign](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - Open Source Email Templates
 - [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
@@ -36,6 +35,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
 
 ## Tools
+- [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 - [MJML App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
 - [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 - [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
