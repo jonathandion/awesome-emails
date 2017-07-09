@@ -8,13 +8,22 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A collection of awesome frameworks, templates, tools, workflows and many more to build responsive emails. :fire:
+> A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
 
-If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
-
+### Table of Contents
+- [Frameworks](#frameworks)
+- [Templates](#templates)
+- [Tools](#tools)
+- [Services](#services)
+- [Workflows](#workflows)
+- [Articles](#articles)
+- [Inspirations](#inspirations)
+- [Statistics](#statistics)
+- [Design](#design)
+- [Testing](#testing)
+- [Learning](#learning)
 
 ## Frameworks
-
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
 - [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
@@ -53,22 +62,19 @@ VML and CSS.
 - [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
 ## Workflows
-
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 - [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
 
-#### Articles
+## Articles
 - [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) - An email design workflow by By Lee Munroe.
 
-## Design Patterns & Guides
-
+## Design
 - [CSS Support](https://www.campaignmonitor.com/css/) - A complete breakdown of the CSS support for every popular mobile, web and desktop email client on the planet.
 - [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - This guide is a brief summary of email best practices that we have learned from managing mail servers.
 - [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/) - I looked at the navigation of 50 responsive retail emails. Here is a breakdown of the patterns I discovered.
 
 ## Blogs
-
 - [Litmus Blog](https://litmus.com/blog/)
 - [Stylecampaign Blog](http://stylecampaign.com/blog/)
 - [Myemma Blog](http://myemma.com/content-hub)
@@ -81,7 +87,6 @@ VML and CSS.
 - [greatemailcopy](http://greatemailcopy.com/) - A dose of well-crafted emails from around the web.
 
 ## Resources
-
 - [Email toolbox](http://email-toolbox.com/) - Hand-picked resources for email marketers and designers.
 - [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp
 - [Litmus Resources](https://litmus.com/resources) - Stay up to date with the latest email news and trends with Litmus resources.
@@ -90,7 +95,6 @@ VML and CSS.
 - [Mailchimp](http://templates.mailchimp.com/) - MailChimp Email Design Reference
 
 ## Inspirations
-
 - [Really good emails Codepen](http://codepen.io/reallygoodemails/)
 - [Really good emails](http://reallygoodemails.com/) - The Best Email Designs in the Universe.
 - [Milled](http://milled.com/)
@@ -98,15 +102,13 @@ VML and CSS.
 - [Mailchimp Inspiration](http://inspiration.mailchimp.com/#all) - Mailchimp beautiful newsletters examples.
 - [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 
-## Statistics / Research
-
+## Statistics
 - [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - 18 must-know stats for modern email marketers by Emma, Inc.
 - [Mailchimp Research](http://mailchimp.com/resources/research/) - MailChimp's researchers are constantly analyzing data to help you make the most of your email campaigns. 
 - [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing
 - [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review
 
 ## Testing
-
 - [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
 - [Litmus](https://litmus.com/) - Test and track your emails with Litmus
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
@@ -115,13 +117,21 @@ VML and CSS.
 - [SPAM mailtester](http://www.mail-tester.com/) - Test the Spammyness of your Emails
 
 ## Learning
-
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) - Responsive email course by Justine Jand and Jason Rodriguez. They both work at Litmus.
 - [HTML Email Design](http://teamtreehouse.com/library/html-email-design) - MailChimp UX Designer Fabio Carneiro demonstrates how to build a full-featured, mobile-friendly email from scratch.
 - [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches.
 - [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) - Building Responsive Email Templates with Ink.
 - [Litmus learning](https://litmus.com/community/learning) - Litmus learning resources.
 
-## License
+<hr>
 
+### Contribution
+Suggestions and PRs are welcome! 🤙
+If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
+
+### More Awesome
+- 📚 [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+
+
+### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
