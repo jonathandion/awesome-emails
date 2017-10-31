@@ -12,7 +12,7 @@
 
 ### Table of Contents
 - [Frameworks](#frameworks)
-- [Cheatsheets](#Cheatsheets)
+- [Cheatsheets](#cheatsheets)
 - [Templates](#templates)
 - [Tools](#tools)
 - [Services](#services)
