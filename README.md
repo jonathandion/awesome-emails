@@ -12,6 +12,7 @@
 
 ### Table of Contents
 - [Frameworks](#frameworks)
+- [Cheatsheets](#Cheatsheets)
 - [Templates](#templates)
 - [Tools](#tools)
 - [Services](#services)
@@ -28,6 +29,9 @@
 - [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 - [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
+
+## Cheatsheets
+- [Rico's cheatsheet](https://devhints.io/html-email) - Rico's cheatsheet for HTML email
 
 ## Templates
 - [Campaign](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
