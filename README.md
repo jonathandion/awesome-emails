@@ -50,13 +50,15 @@
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
 - [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 - [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
+- [Stripo.email](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
 
 ## Tools
 - [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 - [MJML App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
 - [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 - [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
-- [Bulletproof Background Images](http://backgrounds.cm/) - Use rock-solid background images in your HTML email with some help from
+- [Bulletproof Background Images](http://backgrounds.cm/) - Use rock-solid background images in your HTML email with some help from.
+- [Stripo.email](https://stripo.email/) - Online drag-n-drop and HTML email builder to create professional and responsive email templates fast without any HTML skills.
 
 VML and CSS.
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
@@ -98,6 +100,7 @@ VML and CSS.
 - [Postmarkapp Blog](http://blog.postmarkapp.com/)
 - [Spently Blog](https://blog.spently.com/)
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
+- [Stripo.email Blog](http://www.emailmonks.com/blog/) - Email Marketing & Email Design Blog.
 
 ## Copy
 - [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
