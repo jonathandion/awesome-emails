@@ -51,13 +51,15 @@
 - [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 - [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
 - [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
+- [Stripo.email](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
 
 ## Tools
 - [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 - [MJML App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
 - [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 - [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
-- [Bulletproof Background Images](http://backgrounds.cm/) - Use rock-solid background images in your HTML email with some help from
+- [Bulletproof Background Images](http://backgrounds.cm/) - Use rock-solid background images in your HTML email with some help from.
+- [Stripo.email](https://stripo.email/) - Online drag-n-drop and HTML email builder to create professional and responsive email templates fast without any HTML skills.
 
 VML and CSS.
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
@@ -74,6 +76,7 @@ VML and CSS.
 - [SparkPost](https://www.sparkpost.com/) - Your application’s emails: Delivered on time and to the inbox.
 - [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
+- [eSputnik](https://esputnik.com/en) - eSputnik is a marketing automation system trusted by more than 30 thousand loyal customers worldwide to send more than a billion emails every month.
 
 ## Self-Hosted Services
 - [Mailtrain](https://mailtrain.org/) - Self Hosted Newsletter App Built on Top of Nodemailer.
@@ -99,6 +102,7 @@ VML and CSS.
 - [Postmarkapp Blog](http://blog.postmarkapp.com/)
 - [Spently Blog](https://blog.spently.com/)
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
+- [Stripo.email Blog](http://www.emailmonks.com/blog/) - Email Marketing & Email Design Blog.
 
 ## Copy
 - [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
@@ -122,7 +126,7 @@ VML and CSS.
 
 ## Statistics
 - [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - 18 must-know stats for modern email marketers by Emma, Inc.
-- [Mailchimp Research](http://mailchimp.com/resources/research/) - MailChimp's researchers are constantly analyzing data to help you make the most of your email campaigns. 
+- [Mailchimp Research](http://mailchimp.com/resources/research/) - MailChimp's researchers are constantly analyzing data to help you make the most of your email campaigns.
 - [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing
 - [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review
 
@@ -136,7 +140,7 @@ VML and CSS.
 - [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
 
 ## Learning
-- [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) - Responsive email course by Justine Jand and Jason Rodriguez. They both work at Litmus.
+- [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) - Responsive email course by Justine Jordan and Jason Rodriguez.
 - [HTML Email Design](http://teamtreehouse.com/library/html-email-design) - MailChimp UX Designer Fabio Carneiro demonstrates how to build a full-featured, mobile-friendly email from scratch.
 - [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches.
 - [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) - Building Responsive Email Templates with Ink.
