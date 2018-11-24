@@ -103,6 +103,7 @@ VML and CSS.
 - [Spently Blog](https://blog.spently.com/)
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
 - [Stripo.email Blog](http://www.emailmonks.com/blog/) - Email Marketing & Email Design Blog.
+- [HTML Email Blog](https://htmlemail.io/blog/)
 
 ## Copy
 - [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
