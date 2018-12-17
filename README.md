@@ -79,6 +79,8 @@ VML and CSS.
 ## Self-Hosted Services
 - [Mailtrain](https://mailtrain.org/) - Self Hosted Newsletter App Built on Top of Nodemailer.
 - [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
+- [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
+- [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution
 
 ## Workflows
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
@@ -114,6 +116,7 @@ VML and CSS.
 - [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor resources will turn you into an expert in no time.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) - MailChimp Email Design Reference
+- [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - Tutorial on how to build your own email server
 
 ## Inspirations
 - [Really good emails Codepen](http://codepen.io/reallygoodemails/)
@@ -137,6 +140,7 @@ VML and CSS.
 - [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
 - [SPAM mailtester](http://www.mail-tester.com/) - Test the Spammyness of your Emails
 - [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
+- [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
 
 ## Learning
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) - Responsive email course by Justine Jordan and Jason Rodriguez.
