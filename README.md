@@ -141,6 +141,7 @@ VML and CSS.
 - [SPAM mailtester](http://www.mail-tester.com/) - Test the Spammyness of your Emails
 - [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
+- [Mail Tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails
 
 ## Learning
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) - Responsive email course by Justine Jordan and Jason Rodriguez.
