@@ -140,6 +140,8 @@ VML and CSS.
 - [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
 - [SPAM mailtester](http://www.mail-tester.com/) - Test the Spammyness of your Emails
 - [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
+- [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go)
+- [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby)
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
 - [Mail Tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails
 
