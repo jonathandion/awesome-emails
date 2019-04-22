@@ -45,6 +45,7 @@
 - [Cerberus](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 - [Antwort](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
 - [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+- [HTML Email Templates](https://www.htmlemailtemplates.net/) - Responsive HTML email templates for Startups & SaaS.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
