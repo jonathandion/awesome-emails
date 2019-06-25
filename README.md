@@ -31,7 +31,7 @@
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 - [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 - [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
-- [Pine](https://thememountain.github.io/documentation/pine/index.html) - A modular and lightweight, responsive email framework.
+- [Pine](https://docs.thememountain.com/pine/) - A 12 column grid, responsive email framework.
 
 ## Cheatsheets
 - [Rico's cheatsheet](https://devhints.io/html-email) - Rico's cheatsheet for HTML email
