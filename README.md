@@ -146,6 +146,7 @@ VML and CSS.
 - [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby)
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
 - [Mail Tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails
+- [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
 
 ## Learning
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) - Responsive email course by Justine Jordan and Jason Rodriguez.
