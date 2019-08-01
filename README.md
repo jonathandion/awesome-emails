@@ -91,6 +91,7 @@ VML and CSS.
 
 ## Articles
 - [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) - An email design workflow by By Lee Munroe.
+- [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for writing effective emails
 
 ## Design
 - [CSS Support](https://www.campaignmonitor.com/css/) - A complete breakdown of the CSS support for every popular mobile, web and desktop email client on the planet.
