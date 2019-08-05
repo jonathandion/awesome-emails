@@ -62,6 +62,7 @@
 - [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
 - [Bulletproof Background Images](http://backgrounds.cm/) - Use rock-solid background images in your HTML email with some help from.
 - [Stripo.email](https://stripo.email/) - Online drag-n-drop and HTML email builder to create professional and responsive email templates fast without any HTML skills.
+- [MySigMail Card](https://mysigmail.com/card/) - A free drag & drop builder helps you create email templates intuitively and very quickly.
 
 VML and CSS.
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
