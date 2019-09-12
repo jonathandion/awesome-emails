@@ -11,6 +11,7 @@
 > A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
 
 ### Table of Contents
+
 - [Frameworks](#frameworks)
 - [Cheatsheets](#cheatsheets)
 - [Templates](#templates)
@@ -26,6 +27,7 @@
 - [Learning](#learning)
 
 ## Frameworks
+
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
 - [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
@@ -35,9 +37,11 @@
 - [Maizzle](https://maizzle.com) - Rapidly prototype HTML emails with Tailwind CSS and advanced, email-specific post-processing.
 
 ## Cheatsheets
+
 - [Rico's cheatsheet](https://devhints.io/html-email) - Rico's cheatsheet for HTML email
 
 ## Templates
+
 - [Campaign](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - Open Source Email Templates
 - [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
@@ -56,6 +60,8 @@
 - [Stripo.email](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
 
 ## Tools
+
+- [caniemail](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails 
 - [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 - [MJML App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
 - [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
@@ -69,6 +75,7 @@ VML and CSS.
 - [mailspice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
 
 ## Services
+
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
@@ -80,27 +87,32 @@ VML and CSS.
 - [eSputnik](https://esputnik.com/en) - eSputnik is a marketing automation system trusted by more than 30 thousand loyal customers worldwide to send more than a billion emails every month.
 
 ## Self-Hosted Services
+
 - [Mailtrain](https://mailtrain.org/) - Self Hosted Newsletter App Built on Top of Nodemailer.
 - [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 - [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
 - [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution
 
 ## Workflows
+
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 - [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
 
 ## Articles
+
 - [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) - An email design workflow by By Lee Munroe.
 - [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for writing effective emails
 
 ## Design
+
 - [CSS Support](https://www.campaignmonitor.com/css/) - A complete breakdown of the CSS support for every popular mobile, web and desktop email client on the planet.
 - [Email Template Guide](https://blocksedit.com/email-template-guide/) - Using a modular email template system
 - [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - This guide is a brief summary of email best practices that we have learned from managing mail servers.
 - [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/) - I looked at the navigation of 50 responsive retail emails. Here is a breakdown of the patterns I discovered.
 
 ## Blogs
+
 - [Litmus Blog](https://litmus.com/blog/)
 - [Stylecampaign Blog](http://stylecampaign.com/blog/)
 - [Myemma Blog](http://myemma.com/content-hub)
@@ -112,10 +124,12 @@ VML and CSS.
 - [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing
 
 ## Copy
+
 - [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 - [greatemailcopy](http://greatemailcopy.com/) - A dose of well-crafted emails from around the web.
 
 ## Resources
+
 - [Email toolbox](http://email-toolbox.com/) - Hand-picked resources for email marketers and designers.
 - [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp
 - [Litmus Resources](https://litmus.com/resources) - Stay up to date with the latest email news and trends with Litmus resources.
@@ -125,6 +139,7 @@ VML and CSS.
 - [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - Tutorial on how to build your own email server
 
 ## Inspirations
+
 - [Really good emails Codepen](http://codepen.io/reallygoodemails/)
 - [Really good emails](http://reallygoodemails.com/) - The Best Email Designs in the Universe.
 - [Milled](http://milled.com/)
@@ -133,12 +148,14 @@ VML and CSS.
 - [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 
 ## Statistics
+
 - [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - 18 must-know stats for modern email marketers by Emma, Inc.
 - [Mailchimp Research](http://mailchimp.com/resources/research/) - MailChimp's researchers are constantly analyzing data to help you make the most of your email campaigns.
 - [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing
 - [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review
 
 ## Testing
+
 - [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
 - [Litmus](https://litmus.com/) - Test and track your emails with Litmus
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
@@ -153,6 +170,7 @@ VML and CSS.
 - [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
 
 ## Learning
+
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) - Responsive email course by Justine Jordan and Jason Rodriguez.
 - [HTML Email Design](http://teamtreehouse.com/library/html-email-design) - MailChimp UX Designer Fabio Carneiro demonstrates how to build a full-featured, mobile-friendly email from scratch.
 - [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches.
@@ -162,6 +180,7 @@ VML and CSS.
 <hr>
 
 ### Contribution
+
 Suggestions and PRs are welcome! 🤙
 If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
 
