@@ -161,7 +161,6 @@ VML and CSS.
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
 - [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - Send email tests to Litmus with grunt
 - [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
-- [SPAM mailtester](http://www.mail-tester.com/) - Test the Spammyness of your Emails
 - [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
 - [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go)
 - [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby)
