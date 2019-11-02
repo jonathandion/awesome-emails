@@ -128,7 +128,6 @@ VML and CSS.
 ## Copy
 
 - [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
-- [greatemailcopy](http://greatemailcopy.com/) - A dose of well-crafted emails from around the web.
 
 ## Resources
 
