@@ -94,6 +94,7 @@ VML and CSS.
 - [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
 - [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution
 - [mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
+- [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
 
 ## Workflows
 
