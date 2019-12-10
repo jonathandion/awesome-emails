@@ -72,6 +72,7 @@
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
 - [mailspice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
 - [Alter.email](https://alter.email/) - A free tool to help you inline CSS, remove unused CSS, clean up your text, add extra attributes to tags, add URL tracking parameters, minify, and even prettify HTML email.
+- [Sensitive Subjects](https://sensitivesubjects.com/) - Never send an embarrassing subject line!
 
 ## Services
 
