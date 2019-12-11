@@ -69,10 +69,12 @@
 - [Bulletproof Background Images](http://backgrounds.cm/) - Use rock-solid background images in your HTML email with some help from.
 - [Stripo.email](https://stripo.email/) - Online drag-n-drop and HTML email builder to create professional and responsive email templates fast without any HTML skills.
 - [MySigMail Card](https://mysigmail.com/card/) - A free drag & drop builder helps you create email templates intuitively and very quickly.
-
-VML and CSS.
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
 - [mailspice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
+- [Detergent](https://detergent.io) - A tool to prepare the text for pasting into HTML: removes invisible Unicode characters (like [ETX](https://www.fileformat.info/info/unicode/char/0003/index.htm) which can come from PSD files), encodes special characters (like turning £ into `&pound;`) and improves typography.
+- [EmailComb](http://emailcomb.com/) - Email-friendly unused CSS removal tool which does not parse and thus accepts mixed sources, including your ESP templating tags. Extras: CSS uglification and HTML/CSS minification (powered by HTML Crush).
+- [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
+- [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 
 ## Services
 
