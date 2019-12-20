@@ -66,7 +66,7 @@
 - [MJML App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
 - [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 - [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
-- [Bulletproof Background Images](http://backgrounds.cm/) - Use rock-solid background images in your HTML email with some help from VML and CSS.
+- [Bulletproof Background Images](http://backgrounds.cm/) - Create rock-solid background images for your HTML email with some help from VML and CSS.
 - [Stripo.email](https://stripo.email/) - Online drag-n-drop and HTML email builder to create professional and responsive email templates fast without any HTML skills.
 - [MySigMail Card](https://mysigmail.com/card/) - A free drag & drop builder helps you create email templates intuitively and very quickly.
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
