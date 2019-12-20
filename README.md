@@ -61,16 +61,18 @@
 
 ## Tools
 
-- [caniemail](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails 
+- [caniemail](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 - [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 - [MJML App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
 - [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 - [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
-- [Bulletproof Background Images](http://backgrounds.cm/) - Use rock-solid background images in your HTML email with some help from.
+- [Bulletproof Background Images](http://backgrounds.cm/) - Create rock-solid background images for your HTML email with some help from VML and CSS.
 - [Stripo.email](https://stripo.email/) - Online drag-n-drop and HTML email builder to create professional and responsive email templates fast without any HTML skills.
 - [MySigMail Card](https://mysigmail.com/card/) - A free drag & drop builder helps you create email templates intuitively and very quickly.
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
 - [mailspice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
+- [Alter.email](https://alter.email/) - A free tool to help you inline CSS, remove unused CSS, clean up your text, add extra attributes to tags, add URL tracking parameters, minify, and even prettify HTML email.
+- [Sensitive Subjects](https://sensitivesubjects.com/) - Never send an embarrassing subject line!
 - [Detergent](https://detergent.io) - A tool to prepare the text for pasting into HTML: removes invisible Unicode characters (like [ETX](https://www.fileformat.info/info/unicode/char/0003/index.htm) which can come from PSD files), encodes special characters (like turning £ into `&pound;`) and improves typography.
 - [EmailComb](http://emailcomb.com/) - Email-friendly unused CSS removal tool which does not parse and thus accepts mixed sources, including your ESP templating tags. Extras: CSS uglification and HTML/CSS minification (powered by HTML Crush).
 - [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
