@@ -58,6 +58,7 @@
 - [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
 - [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 - [Stripo.email](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
+- [Postcards](https://designmodo.com/postcards/) - Design responsive email templates online without coding knowledge.
 
 ## Tools
 
@@ -134,6 +135,7 @@
 - [Stripo.email Blog](http://www.emailmonks.com/blog/) - Email Marketing & Email Design Blog.
 - [HTML Email Blog](https://htmlemail.io/blog/)
 - [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing
+- [Email Design Blog](https://designmodo.com/design/email-design/) - Articles, tutorial, inspiration for all email geeks.
 
 ## Copy
 
