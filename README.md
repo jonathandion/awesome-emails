@@ -155,7 +155,6 @@
 - [Really good emails](http://reallygoodemails.com/) - The Best Email Designs in the Universe.
 - [Milled](http://milled.com/)
 - [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -The most effective email marketing campaigns from Campaign Monitor.
-- [Mailchimp Inspiration](http://inspiration.mailchimp.com/#all) - Mailchimp beautiful newsletters examples.
 - [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 
 ## Statistics
