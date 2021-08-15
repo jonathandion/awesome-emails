@@ -79,6 +79,7 @@
 - [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
 - [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 - [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
+- [email-verifier](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 
 ## Services
 
