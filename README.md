@@ -184,7 +184,6 @@
 ## Learning
 
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) - Responsive email course by Justine Jordan and Jason Rodriguez.
-- [HTML Email Design](http://teamtreehouse.com/library/html-email-design) - MailChimp UX Designer Fabio Carneiro demonstrates how to build a full-featured, mobile-friendly email from scratch.
 - [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches.
 - [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) - Building Responsive Email Templates with Ink.
 - [Litmus learning](https://litmus.com/community/learning) - Litmus learning resources.
