@@ -155,6 +155,7 @@
 
 - [Really good emails Codepen](http://codepen.io/reallygoodemails/)
 - [Really good emails](http://reallygoodemails.com/) - The Best Email Designs in the Universe.
+- [TidyMails](http://tidymails.com/) -The Email Newsletters' Universe.
 - [Milled](http://milled.com/)
 - [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -The most effective email marketing campaigns from Campaign Monitor.
 - [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
