@@ -20,11 +20,17 @@
 - [Self-Hosted Services](#self-hosted-services)
 - [Workflows](#workflows)
 - [Articles](#articles)
+- [Design](#design)
+- [Blogs](#blogs)
+- [Copy](#copy)
+- [Resources](#resources)
 - [Inspirations](#inspirations)
 - [Statistics](#statistics)
-- [Design](#design)
 - [Testing](#testing)
 - [Learning](#learning)
+  - [Contribution](#contribution)
+  - [More Awesome](#more-awesome)
+  - [License](#license)
 
 ## Frameworks
 
@@ -80,6 +86,7 @@
 - [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 - [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
+- [bldr(sfmc)](https://www.npmjs.com/package/@basetime/bldr-sfmc) - A tool for a better SFMC workflow that allows for integrations into any GIT provider, local asset editing, and direct update into SFMC Content Builder and Automation Studio.
 
 ## Services
 
@@ -151,6 +158,7 @@
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) - MailChimp Email Design Reference
 - [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - Tutorial on how to build your own email server
+- [HowToSFMC](https://www.howtosfmc.com) - Resource and community for SFMC users of all levels.
 
 ## Inspirations
 
