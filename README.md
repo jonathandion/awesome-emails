@@ -42,6 +42,7 @@
 
 ## Templates
 
+- [Responsive templates](https://templates.emailoctopus.com/) - Free HTML templates from EmailOctopus, usable with any provider.
 - [Campaign](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - Open Source Email Templates
 - [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
@@ -83,6 +84,7 @@
 
 ## Services
 
+- [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
@@ -127,6 +129,7 @@
 
 ## Blogs
 
+- [EmailOctopus Blog](https://emailoctopus.com/blog/)
 - [Litmus Blog](https://litmus.com/blog/)
 - [Stylecampaign Blog](http://stylecampaign.com/blog/)
 - [Myemma Blog](http://myemma.com/content-hub)
@@ -144,6 +147,7 @@
 
 ## Resources
 
+- [Email marketing regulations](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 - [Email toolbox](http://email-toolbox.com/) - Hand-picked resources for email marketers and designers.
 - [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp
 - [Litmus Resources](https://litmus.com/resources) - Stay up to date with the latest email news and trends with Litmus resources.
