@@ -109,6 +109,7 @@
 
 ## Workflows
 
+- [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - A potent combination of MDX and MJML.
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 - [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
