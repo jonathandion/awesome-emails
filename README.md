@@ -28,6 +28,7 @@
 
 ## Frameworks
 
+- [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript. :fire:
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
 - [JSX-email](https://jsx-mail.org/) - Jsx Mail is an email framework that uses React to create email templates. :fire:
 - [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
@@ -59,21 +60,21 @@
 - [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 - [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
 - [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
-- [Stripo.email](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
+- [Stripo](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
 - [Postcards](https://designmodo.com/postcards/) - Design responsive email templates online without coding knowledge.
 
 ## Tools
 
-- [caniemail](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
+- [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 - [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
-- [MJML App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
+- [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
 - [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 - [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
 - [Bulletproof Background Images](http://backgrounds.cm/) - Create rock-solid background images for your HTML email with some help from VML and CSS.
 - [Stripo.email](https://stripo.email/) - Online drag-n-drop and HTML email builder to create professional and responsive email templates fast without any HTML skills.
 - [MySigMail Card](https://mysigmail.com/card/) - A free drag & drop builder helps you create email templates intuitively and very quickly.
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
-- [mailspice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
+- [MailSpice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
 - [Alter.email](https://alter.email/) - A free tool to help you inline CSS, remove unused CSS, clean up your text, add extra attributes to tags, add URL tracking parameters, minify, and even prettify HTML email.
 - [Sensitive Subjects](https://sensitivesubjects.com/) - Never send an embarrassing subject line!
 - [Detergent](https://detergent.io) - A tool to prepare the text for pasting into HTML: removes invisible Unicode characters (like [ETX](https://www.fileformat.info/info/unicode/char/0003/index.htm) which can come from PSD files), encodes special characters (like turning £ into `&pound;`) and improves typography.
@@ -103,7 +104,7 @@
 
 - [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution
 - [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
-- [mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
+- [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
 - [Mailtrain](https://mailtrain.org/) - Self Hosted Newsletter App Built on Top of Nodemailer.
 - [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 - [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
