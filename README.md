@@ -65,6 +65,7 @@
 
 ## Tools
 
+- [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
 - [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 - [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 - [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
