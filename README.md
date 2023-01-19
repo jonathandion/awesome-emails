@@ -90,6 +90,7 @@
 - [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
+- [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - AI-powered email marketing platform that allows to design email with built-in components
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 - [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
 - [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
