@@ -87,7 +87,7 @@
 
 ## Services
 
-- [Forward Email](https://forwardemail.net) (@forwardemail) - the 100% open-source and privacy-focused email service
+- [Forward Email](https://forwardemail.net) (@forwardemail) - the 100% open-source and privacy-focused email service.
 - [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
