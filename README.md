@@ -87,7 +87,6 @@
 
 ## Services
 
-- [Forward Email](https://forwardemail.net) (@forwardemail) - the 100% open-source and privacy-focused email service.
 - [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
@@ -102,6 +101,7 @@
 - [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
 - [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
 - [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
+- [Forward Email](https://forwardemail.net) - the 100% open-source and privacy-focused email service.
 
 ## Self-Hosted Services
 
