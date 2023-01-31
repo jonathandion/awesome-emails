@@ -12,6 +12,7 @@ AWESOME EMAILS ✉ ✨
 
 - [Frameworks](#frameworks)
   - [React](#react)
+  - [Misc](#misc)
 - [Cheatsheets](#cheatsheets)
 - [Templates](#templates)
 - [Tools](#tools)
