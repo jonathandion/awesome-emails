@@ -1,14 +1,12 @@
 <h1 align="center">
-	<br>
-	<img width="500" src="https://raw.githubusercontent.com/jonathandion/awesome-emails/master/masthead.png" alt="awesome emails">
-	<br>
-	<br>
-	<br>
+<br>
+AWESOME EMAILS ✉ ✨
+<br>
 </h1>
+<h4 align="center" >A collection of awesome frameworks, templates, tools, workflows and many more to build better emails. </h4>
+<br>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
 
 ### Table of Contents
 
