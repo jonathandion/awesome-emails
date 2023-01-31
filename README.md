@@ -1,14 +1,12 @@
 <h1 align="center">
-	<br>
-	<img width="500" src="https://raw.githubusercontent.com/jonathandion/awesome-emails/master/masthead.png" alt="awesome emails">
-	<br>
-	<br>
-	<br>
+<br>
+AWESOME EMAILS ✉ ✨
+<br>
 </h1>
+<h4 align="center" >A collection of awesome frameworks, templates, tools, workflows and many more to build better emails. </h4>
+<br>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
 
 ### Table of Contents
 
@@ -85,6 +83,7 @@
 - [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 - [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
+- [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
 
 ## Services
 
@@ -102,6 +101,7 @@
 - [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
 - [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
 - [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
+- [Kickbox](https://kickbox.com) - Email verification service (check an email exists). 
 
 ## Self-Hosted Services
 
@@ -189,6 +189,7 @@
 - [Mail Tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails
 - [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
 - [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers
+- [Email Spam Tester](https://kickbox.com/email-spam-tester/) - Free tool to check to see if your email will end up in the spam folder
 
 ## Learning
 
