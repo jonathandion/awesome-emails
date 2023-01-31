@@ -109,7 +109,7 @@ AWESOME EMAILS ✉ ✨
 - [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
 - [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
 - [Kickbox](https://kickbox.com) - Email verification service (check an email exists).
-- [Forward Email](https://forwardemail.net) - the 100% open-source and privacy-focused email service.
+- [Forward Email](https://forwardemail.net) - The 100% open-source and privacy-focused email service.
 
 ## Self-Hosted Services
 
