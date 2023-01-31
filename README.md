@@ -1,18 +1,18 @@
 <h1 align="center">
-	<br>
-	<img width="500" src="https://raw.githubusercontent.com/jonathandion/awesome-emails/master/masthead.png" alt="awesome emails">
-	<br>
-	<br>
-	<br>
+<br>
+AWESOME EMAILS ✉ ✨
+<br>
 </h1>
+<h4 align="center" >A collection of awesome frameworks, templates, tools, workflows and many more to build better emails. </h4>
+<br>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
 
 ### Table of Contents
 
 - [Frameworks](#frameworks)
+  - [React](#react)
+  - [Misc](#misc)
 - [Cheatsheets](#cheatsheets)
 - [Templates](#templates)
 - [Tools](#tools)
@@ -27,9 +27,15 @@
 
 ## Frameworks
 
-- [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript. :fire:
-- [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
-- [JSX-email](https://jsx-mail.org/) - Jsx Mail is an email framework that uses React to create email templates. :fire:
+### React
+
+- [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
+- [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
+- [JSX-email](https://jsx-mail.org/) - JSX Mail is an email framework that uses React to create email templates. 
+
+### Misc
+
+- [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email.
 - [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 - [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
@@ -39,7 +45,7 @@
 
 ## Cheatsheets
 
-- [Rico's cheatsheet](https://devhints.io/html-email) - Rico's cheatsheet for HTML email
+- [Rico's cheatsheet](https://devhints.io/html-email) - Rico's cheatsheet for HTML email.
 
 ## Templates
 
@@ -48,7 +54,7 @@
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - Open source email templates.
 - [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 - [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
-- [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
+- [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) - Each template is responsive and each has been tested in all the popular email clients.
 - [Cerberus](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 - [Antwort](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
 - [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
@@ -65,7 +71,6 @@
 
 ## Tools
 
-- [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
 - [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 - [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 - [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
@@ -84,6 +89,8 @@
 - [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 - [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
+- [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
+- [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
 
 ## Services
 
@@ -101,6 +108,7 @@
 - [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
 - [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
 - [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
+- [Kickbox](https://kickbox.com) - Email verification service (check an email exists).
 - [Forward Email](https://forwardemail.net) - the 100% open-source and privacy-focused email service.
 
 ## Self-Hosted Services
@@ -125,7 +133,7 @@
 ## Design
 
 - [CSS Support](https://www.campaignmonitor.com/css/) - A complete breakdown of the CSS support for every popular mobile, web and desktop email client on the planet.
-- [Email Template Guide](https://blocksedit.com/email-template-guide/) - Using a modular email template system
+- [Email Template Guide](https://blocksedit.com/email-template-guide/) - Using a modular email template system.
 - [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - This guide is a brief summary of email best practices that we have learned from managing mail servers.
 - [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/) - I looked at the navigation of 50 responsive retail emails. Here is a breakdown of the patterns I discovered.
 
@@ -140,7 +148,7 @@
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
 - [Stripo.email Blog](http://www.emailmonks.com/blog/) - Email Marketing & Email Design Blog.
 - [HTML Email Blog](https://htmlemail.io/blog/)
-- [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing
+- [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing.
 - [Email Design Blog](https://designmodo.com/design/email-design/) - Articles, tutorial, inspiration for all email geeks.
 
 ## Copy
@@ -151,12 +159,12 @@
 
 - [Email marketing regulations](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 - [Email toolbox](http://email-toolbox.com/) - Hand-picked resources for email marketers and designers.
-- [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp
+- [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp.
 - [Litmus Resources](https://litmus.com/resources) - Stay up to date with the latest email news and trends with Litmus resources.
 - [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor resources will turn you into an expert in no time.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
-- [Mailchimp](http://templates.mailchimp.com/) - Mailchimp Email Design Reference
-- [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - Tutorial on how to build your own email server
+- [Mailchimp](http://templates.mailchimp.com/) - Mailchimp Email Design Reference.
+- [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - Tutorial on how to build your own email server.
 
 ## Inspirations
 
@@ -171,24 +179,25 @@
 
 - [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - 18 must-know stats for modern email marketers by Emma, Inc.
 - [Mailchimp Research](http://mailchimp.com/resources/research/) - Mailchimp's researchers are constantly analyzing data to help you make the most of your email campaigns.
-- [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing
-- [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review
+- [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing.
+- [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review.
 
 ## Testing
 
 - [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
-- [Litmus](https://litmus.com/) - Test and track your emails with Litmus
+- [Litmus](https://litmus.com/) - Test and track your emails with Litmus.
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
-- [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - Send email tests to Litmus with grunt
-- [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
+- [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - Send email tests to Litmus with grunt.
+- [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp.
 - [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
 - [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
-- [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go)
-- [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby)
-- [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
-- [Mail Tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails
+- [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
+- [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
+- [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content).
+- [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
 - [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
-- [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers
+- [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers.
+- [Email Spam Tester](https://kickbox.com/email-spam-tester/) - Free tool to check to see if your email will end up in the spam folder.
 
 ## Learning
 
