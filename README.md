@@ -108,7 +108,8 @@ AWESOME EMAILS ✉ ✨
 - [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
 - [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
 - [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
-- [Kickbox](https://kickbox.com) - Email verification service (check an email exists). 
+- [Kickbox](https://kickbox.com) - Email verification service (check an email exists).
+- [Forward Email](https://forwardemail.net) - the 100% open-source and privacy-focused email service.
 
 ## Self-Hosted Services
 
