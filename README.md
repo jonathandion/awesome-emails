@@ -11,6 +11,7 @@ AWESOME EMAILS ✉ ✨
 ### Table of Contents
 
 - [Frameworks](#frameworks)
+  - [React](#react)
 - [Cheatsheets](#cheatsheets)
 - [Templates](#templates)
 - [Tools](#tools)
@@ -25,9 +26,15 @@ AWESOME EMAILS ✉ ✨
 
 ## Frameworks
 
-- [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript. :fire:
-- [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
-- [JSX-email](https://jsx-mail.org/) - Jsx Mail is an email framework that uses React to create email templates. :fire:
+### React
+
+- [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
+- [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
+- [JSX-email](https://jsx-mail.org/) - JSX Mail is an email framework that uses React to create email templates. 
+
+### Misc
+
+- [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email.
 - [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 - [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
@@ -63,7 +70,6 @@ AWESOME EMAILS ✉ ✨
 
 ## Tools
 
-- [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
 - [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 - [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 - [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
