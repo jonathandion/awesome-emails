@@ -1,12 +1,13 @@
 <h1 align="center">
-<br>
 AWESOME EMAILS ✉ ✨
-<br>
 </h1>
-<h4 align="center" >A collection of awesome frameworks, templates, tools, workflows and many more to build better emails. </h4>
-<br>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<h4 align="center">
+ A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
+</h4>
+<p align="center" style="text-align: center;">
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+<a href="https://twitter.com/@0xjdion"><img src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&amp;label=Follow%20%400xjdion" alt="Jonathan Dion Twitter"></a>
+</p>
 
 ### Table of Contents
 
