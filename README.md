@@ -112,6 +112,7 @@ AWESOME EMAILS ✉ ✨
 - [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
 - [Kickbox](https://kickbox.com) - Email verification service (check an email exists).
 - [Forward Email](https://forwardemail.net) - The 100% open-source and privacy-focused email service.
+- [Campaign Cleaner](https://campaigncleaner.com) - The Ultimate Tool for Optimized, High-Performance Email Campaigns.
 
 ## Self-Hosted Services
 
