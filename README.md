@@ -113,6 +113,7 @@ AWESOME EMAILS ✉ ✨
 - [Kickbox](https://kickbox.com) - Email verification service (check an email exists).
 - [Forward Email](https://forwardemail.net) - The 100% open-source and privacy-focused email service.
 - [Campaign Cleaner](https://campaigncleaner.com) - The Ultimate Tool for Optimized, High-Performance Email Campaigns.
+- [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
 
 ## Self-Hosted Services
 
