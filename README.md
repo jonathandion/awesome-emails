@@ -42,7 +42,7 @@ AWESOME EMAILS ✉ ✨
 - [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 - [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
 - [Pine](https://docs.thememountain.com/pine/) - A 12 column grid, responsive email framework.
-- [Maizzle](https://maizzle.com) - Rapidly prototype HTML emails with Tailwind CSS and advanced, email-specific post-processing.
+- [Maizzle](https://maizzle.com) - Quickly build HTML emails with Tailwind CSS.
 
 ## Cheatsheets
 
