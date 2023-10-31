@@ -199,7 +199,6 @@ AWESOME EMAILS ✉ ✨
 - [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content).
 - [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
-- [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
 - [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers.
 - [Email Spam Tester](https://kickbox.com/email-spam-tester/) - Free tool to check to see if your email will end up in the spam folder.
 
