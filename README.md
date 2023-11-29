@@ -73,6 +73,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Tools
 
+- [Kombai for Email](kombai.com/email) - Convert any email design to HTML code in one click.
 - [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 - [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 - [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
@@ -224,4 +225,5 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [My Neovim Config](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
 
 ### License
+
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
