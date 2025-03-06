@@ -50,6 +50,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Templates
 
+- [MailPace Transactional Templates](https://github.com/mailpace/templates) - A set of gorgeous Transactional HTML Email Templates built on TailwindCSS
 - [Cerberusemail](https://www.cerberusemail.com/) - Patterns for Responsive HTML Email Templates.
 - [Responsive templates](https://templates.emailoctopus.com/) - Free HTML templates from EmailOctopus, usable with any provider.
 - [Campaign](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
@@ -96,6 +97,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Services
 
+- [MailPace](https://mailpace.com) - Fast Transactional Email, fully independent and based in Europe.
 - [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 - [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
@@ -157,6 +159,7 @@ AWESOME EMAILS ✉ ✨
 - [HTML Email Blog](https://htmlemail.io/blog/)
 - [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing.
 - [Email Design Blog](https://designmodo.com/design/email-design/) - Articles, tutorial, inspiration for all email geeks.
+- [MailPace Blog](https://mailpace.com/blog) - Technical articles about email and engineering, and news about the mailpace transactional email service
 
 ## Resources
 
