@@ -210,6 +210,7 @@ AWESOME EMAILS ✉ ✨
 - [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches.
 - [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) - Building Responsive Email Templates with Ink.
 - [Litmus learning](https://litmus.com/community/learning) - Litmus learning resources.
+- [LearnDMARC](https://www.learndmarc.com/) - Visual breakdown of how email servers communicate, giving you a better understanding of SPF, DKIM, and DMARC.
 
 <hr>
 
