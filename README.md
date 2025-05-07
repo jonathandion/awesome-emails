@@ -141,7 +141,7 @@ AWESOME EMAILS ✉ ✨
 
 - [CSS Support](https://www.campaignmonitor.com/css/) - A complete breakdown of the CSS support for every popular mobile, web and desktop email client on the planet.
 - [Email Template Guide](https://blocksedit.com/email-template-guide/) - Using a modular email template system.
-- [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - This guide is a brief summary of email best practices that we have learned from managing mail servers.
+- [Mail Servers Best Pratices](https://documentation.mailgun.com/docs/mailgun/email-best-practices/best_practices/#email-best-practices) - This guide is a brief summary of email best practices that we have learned from managing mail servers.
 - [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/) - I looked at the navigation of 50 responsive retail emails. Here is a breakdown of the patterns I discovered.
 
 ## Blogs
