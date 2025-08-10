@@ -103,6 +103,7 @@ AWESOME EMAILS ✉ ✨
 - [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - AI-powered email marketing platform that allows to design email with built-in components.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 - [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
+- [MailHooks](https://mailhooks.dev/) -  reliable inbound email infrastructure for your applications, with webhook notifications and seamless integration capabilities.
 - [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 - [SparkPost](https://www.sparkpost.com/) - Your application’s emails: Delivered on time and to the inbox.
 - [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
