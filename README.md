@@ -32,7 +32,8 @@ AWESOME EMAILS ✉ ✨
 
 - [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
 - [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
-- [JSX-email](https://jsx.email/) - JSX Mail is an email framework that uses React to create email templates. 
+- [JSX-email](https://jsx.email/) - JSX Mail is an email framework that uses React to create email templates.
+- [Beefree SDK](https://github.com/BeefreeSDK/beefree-react-demo) - Embeddable no-code, drag-and-drop email builder for React applications. Build, edit, and export emails. Option to import existing email HTML templates, and to use AI to create or edit emails.  
 
 ### Misc
 
@@ -70,6 +71,7 @@ AWESOME EMAILS ✉ ✨
 - [Stripo](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
 - [Postcards](https://designmodo.com/postcards/) - Design responsive email templates online without coding knowledge.
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
+- [Beefree SDK](https://docs.beefree.io/beefree-sdk) - Embeddable no-code, drag-and-drop email template builder. Build, edit, and export emails. Option to import existing email HTML templates, and to use AI to create or edit emails. Option to include email QA (quality analysis) checks prior to export for optimized rendering, accessibility, and CTA verification.  
 
 ## Tools
 
@@ -93,6 +95,7 @@ AWESOME EMAILS ✉ ✨
 - [email-verifier](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 - [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
 - [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
+- [Beefree SDK](https://docs.beefree.io/beefree-sdk/apis/content-services-api/check) - Embeddable no-code, drag-and-drop email template builder. Build, edit, and export emails. Option to include email QA (quality analysis) checks prior to export for optimized rendering, accessibility, and CTA verification.  
 
 ## Services
 
@@ -128,6 +131,7 @@ AWESOME EMAILS ✉ ✨
 - [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 - [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
 - [SimpleLogin](https://github.com/simple-login/app) - Self-hosted email alias solution.
+- [Beefree SDK](https://docs.beefree.io/beefree-sdk/rows/storage) - Embeddable no-code, drag-and-drop email template builder. Build, edit, and export emails. Self-host or host reusable content components to reuse across email templates and designs.  
 
 ## Articles
 
@@ -157,6 +161,7 @@ AWESOME EMAILS ✉ ✨
 - [HTML Email Blog](https://htmlemail.io/blog/)
 - [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing.
 - [Email Design Blog](https://designmodo.com/design/email-design/) - Articles, tutorial, inspiration for all email geeks.
+- [Beefree SDK Blog](https://developers.beefree.io/blog) - For Product Managers and Developers interested in building products that suuport Lifecycle Marketers, Email Marketers, HTML Developers, and more.
 
 ## Resources
 
@@ -203,6 +208,7 @@ AWESOME EMAILS ✉ ✨
 - [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
 - [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers.
 - [Email Spam Tester](https://kickbox.com/email-spam-tester/) - Free tool to check to see if your email will end up in the spam folder.
+- [Beefree SDK](https://docs.beefree.io/beefree-sdk/apis/content-services-api/check) - Embeddable no-code, drag-and-drop email template builder. Build, edit, and export emails. Option to include email QA (quality analysis) checks prior to export for optimized rendering, accessibility, and CTA verification. 
 
 ## Learning
 
