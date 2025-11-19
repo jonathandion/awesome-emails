@@ -127,6 +127,7 @@ AWESOME EMAILS ✉ ✨
 - [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 - [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 - [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
+- [Set-OutlookSignatures](https://set-outlooksignatures.com) - Email signatures and out-of-office replies for Exchange and Outlook.
 - [SimpleLogin](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## Articles
