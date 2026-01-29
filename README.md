@@ -116,6 +116,7 @@ AWESOME EMAILS ✉ ✨
 - [Campaign Cleaner](https://campaigncleaner.com) - The Ultimate Tool for Optimized, High-Performance Email Campaigns.
 - [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails.
+- [Wraps](https://wraps.dev) - Email platform that sends through your AWS. Automations, templates, broadcasts—you own the infrastructure.
 
 ## Self-Hosted Services
 
