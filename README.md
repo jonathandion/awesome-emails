@@ -190,6 +190,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Testing
 
+- [Free Email Spam Checker](https://unspam.email/) - Free email spam checker: instantly verify your SPF, DKIM, and DMARC. Free inbox placement test: see exactly where your email lands, inbox, promotions, or spam.
 - [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
 - [Litmus](https://litmus.com/) - Test and track your emails with Litmus.
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
