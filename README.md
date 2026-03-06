@@ -70,6 +70,8 @@ AWESOME EMAILS ✉ ✨
 - [Stripo](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
 - [Postcards](https://designmodo.com/postcards/) - Design responsive email templates online without coding knowledge.
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
+- [Trade Show Email Templates](https://github.com/LensmorOfficial/trade-show-email-templates) - Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.
+
 
 ## Tools
 
