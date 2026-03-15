@@ -18,6 +18,7 @@ AWESOME EMAILS ✉ ✨
 - [Templates](#templates)
 - [Tools](#tools)
 - [Services](#services)
+  * [Nubo Email](https://nubo.email) - Privacy-first email platform with JMAP, calendar, drive, video meetings. Organization-based pricing.
 - [Self-Hosted Services](#self-hosted-services)
 - [Articles](#articles)
 - [Inspirations](#inspirations)
