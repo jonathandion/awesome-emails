@@ -6,7 +6,7 @@ AWESOME EMAILS ✉ ✨
 </h4>
 <p align="center" style="text-align: center;">
 <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-<a href="https://twitter.com/@0xjdion"><img src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&amp;label=Follow%20%400xjdion" alt="Jonathan Dion Twitter"></a>
+<a href="https://twitter.com/@0xjdion"><img src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&label=Follow%20%400xjdion" alt="Jonathan Dion Twitter"></a>
 </p>
 
 ### Table of Contents
@@ -93,6 +93,7 @@ AWESOME EMAILS ✉ ✨
 - [email-verifier](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 - [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
 - [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
+- [Dioveo](https://dioveo.com) - Gmail attachment manager to find, extract, organize, and bulk-download email attachments, with auto-upload to Google Drive, Dropbox, or OneDrive.
 
 ## Services
 
@@ -104,8 +105,8 @@ AWESOME EMAILS ✉ ✨
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 - [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
 - [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
-- [SparkPost](https://www.sparkpost.com/) - Your application’s emails: Delivered on time and to the inbox.
-- [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
+- [SparkPost](https://www.sparkpost.com/) - Your application's emails: Delivered on time and to the inbox.
+- [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that's quick to learn, simple to use, and easy to iterate.
 - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
 - [eSputnik](https://esputnik.com/en) - eSputnik is a marketing automation system trusted by more than 30 thousand loyal customers worldwide to send more than a billion emails every month.
 - [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
@@ -124,7 +125,7 @@ AWESOME EMAILS ✉ ✨
 - [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
 - [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
 - [Mailtrain](https://mailtrain.org/) - Self Hosted Newsletter App Built on Top of Nodemailer.
-- [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
+- [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that's quick to learn, simple to use, and easy to iterate.
 - [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 - [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
 - [SimpleLogin](https://github.com/simple-login/app) - Self-hosted email alias solution.
