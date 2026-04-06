@@ -116,6 +116,7 @@ AWESOME EMAILS ✉ ✨
 - [Campaign Cleaner](https://campaigncleaner.com) - The Ultimate Tool for Optimized, High-Performance Email Campaigns.
 - [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails.
+- [SigParser](https://sigparser.com) - Connect your mailboxes to extract contact lists from email signatures. Pulls names, titles, emails, and phone numbers going back years, with company enrichment and relationship scoring.
 
 ## Self-Hosted Services
 
