@@ -34,6 +34,10 @@ AWESOME EMAILS ✉ ✨
 - [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
 - [JSX-email](https://jsx.email/) - JSX Mail is an email framework that uses React to create email templates. 
 
+### Node.js
+
+- [mailcraftjs](https://github.com/dev-kjma/mailcraft) - TypeScript-first transactional email library with 16 templates, 10 provider integrations, zero runtime dependencies, HTML sanitization, HMAC unsubscribe tokens, and exponential backoff retry.
+
 ### Misc
 
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email.
