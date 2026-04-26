@@ -116,6 +116,7 @@ AWESOME EMAILS ✉ ✨
 - [Campaign Cleaner](https://campaigncleaner.com) - The Ultimate Tool for Optimized, High-Performance Email Campaigns.
 - [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails.
+- [Maskmail](https://maskmail.io) - Privacy-first email mask service. Create one mask per service, forward what matters, and disable abused masks instantly.
 
 ## Self-Hosted Services
 
