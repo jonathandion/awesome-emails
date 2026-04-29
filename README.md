@@ -93,6 +93,10 @@ AWESOME EMAILS ✉ ✨
 - [email-verifier](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 - [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
 - [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
+- [MiN8T CSS Inliner](https://min8t.com/tools/css-inliner/) - Free in-browser CSS inliner for HTML email. Preserves `@media`, `@keyframes`, and pseudo-class rules. No signup, no upload.
+- [MiN8T MJML to HTML](https://min8t.com/tools/mjml-converter/) - Free in-browser MJML compiler with live preview. Three-pane editor (input / output / iframe render).
+- [MiN8T Bulletproof Button Generator](https://min8t.com/tools/button-generator/) - Free email-safe CTA button generator that ships the full VML fallback for Outlook desktop, not just the modern-CSS half. Six presets, live preview.
+- [MiN8T Subject Line Analyzer](https://min8t.com/tools/subject-line-analyzer/) - Free real-time subject line scoring on length, spam triggers, sentiment, emoji, caps, personalization tokens.
 
 ## Services
 
@@ -203,6 +207,7 @@ AWESOME EMAILS ✉ ✨
 - [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
 - [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers.
 - [Email Spam Tester](https://kickbox.com/email-spam-tester/) - Free tool to check to see if your email will end up in the spam folder.
+- [MiN8T Spam Score Checker](https://min8t.com/tools/spam-checker/) - Free unlimited 21-rule SpamAssassin-style scoring with rule-by-rule breakdown. No test-email-required.
 
 ## Learning
 
