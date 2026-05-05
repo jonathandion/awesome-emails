@@ -93,6 +93,7 @@ AWESOME EMAILS ✉ ✨
 - [email-verifier](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 - [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
 - [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
+- [burner-bouncer](https://github.com/grocerysushi/burner-bouncer) - Zero-dependency disposable email detector.
 
 ## Services
 
