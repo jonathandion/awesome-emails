@@ -97,6 +97,7 @@ AWESOME EMAILS ✉ ✨
 ## Services
 
 - [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
+- [Nuntly](https://nuntly.com) - Developer-first transactional email API with EU-only data hosting, type-safe SDKs (TypeScript, Java), inbound email, and a bundled MCP server for AI agents.
 - [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
