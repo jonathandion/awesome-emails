@@ -109,6 +109,7 @@ AWESOME EMAILS ✉ ✨
 - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
 - [eSputnik](https://esputnik.com/en) - eSputnik is a marketing automation system trusted by more than 30 thousand loyal customers worldwide to send more than a billion emails every month.
 - [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
+- [Sequenzy](https://www.sequenzy.com/) - Email marketing and transactional email platform for SaaS teams, combining subscribers, campaigns, sequences, templates, and product emails.
 - [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
 - [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
 - [Kickbox](https://kickbox.com) - Email verification service (check an email exists).
