@@ -94,6 +94,8 @@ AWESOME EMAILS ✉ ✨
 - [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
 - [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
 
+- [Smart Email Guard](https://github.com/Selfloom/smart-email-guard-demo) - Free Chrome extension that catches missing attachments, links, and CCs before you hit Send in Gmail, Outlook Web, and Yahoo Mail. 100% local processing, no data collection.
+
 ## Services
 
 - [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
