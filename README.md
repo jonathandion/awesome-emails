@@ -203,6 +203,7 @@ AWESOME EMAILS ✉ ✨
 - [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
 - [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers.
 - [Email Spam Tester](https://kickbox.com/email-spam-tester/) - Free tool to check to see if your email will end up in the spam folder.
+- [Amino Email Deliverability Audit](https://github.com/hireamino/amino-audit-action) - GitHub Action that audits your sending domain's SPF/DKIM/DMARC/MTA-STS posture in CI and fails the build on regressions.
 
 ## Learning
 
