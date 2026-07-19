@@ -203,6 +203,7 @@ AWESOME EMAILS ✉ ✨
 - [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
 - [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers.
 - [Email Spam Tester](https://kickbox.com/email-spam-tester/) - Free tool to check to see if your email will end up in the spam folder.
+- [MailFixture](https://mailfixture.com/) - Programmatic inboxes via API for end-to-end email testing; catches your app's mail and extracts OTPs and magic links, with Node and Python SDKs.
 
 ## Learning
 
