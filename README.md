@@ -128,6 +128,7 @@ AWESOME EMAILS ✉ ✨
 - [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 - [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
 - [SimpleLogin](https://github.com/simple-login/app) - Self-hosted email alias solution.
+- [Warmbly](https://github.com/warmbly/warmbly) - AI-native cold email and warmup platform with automations and deliverability controls.
 
 ## Articles
 
