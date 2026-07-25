@@ -43,6 +43,7 @@ AWESOME EMAILS ✉ ✨
 - [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
 - [Pine](https://docs.thememountain.com/pine/) - A 12 column grid, responsive email framework.
 - [Maizzle](https://maizzle.com) - Quickly build HTML emails with Tailwind CSS.
+- [html-email](https://github.com/dcondrey/html-email) - A hand-authored, zero-dependency framework built to never drop support for the oldest clients, from classic Outlook to dark mode, with a built-in cross-client linter.
 
 ## Cheatsheets
 
