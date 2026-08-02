@@ -116,6 +116,7 @@ AWESOME EMAILS ✉ ✨
 - [Campaign Cleaner](https://campaigncleaner.com) - The Ultimate Tool for Optimized, High-Performance Email Campaigns.
 - [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails.
+- [ZeroSMTP](https://github.com/msgwing/ZeroSMTP) - Free SMTP relay that still accepts plain username/password authentication. Built for printers, scanners and legacy apps affected by the Microsoft 365 Basic auth shutdown.
 
 ## Self-Hosted Services
 
