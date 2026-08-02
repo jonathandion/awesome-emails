@@ -187,6 +187,7 @@ AWESOME EMAILS ✉ ✨
 - [Mailchimp Research](http://mailchimp.com/resources/research/) - Mailchimp's researchers are constantly analyzing data to help you make the most of your email campaigns.
 - [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing.
 - [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review.
+- [Cold Email Italy Observatory](https://clientium.it/osservatorio/) - Open dataset of 723 Italian B2B cold email campaigns (3.7M emails) with reply-rate benchmarks by industry, CC BY 4.0.
 
 ## Testing
 
