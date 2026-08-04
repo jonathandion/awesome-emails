@@ -195,7 +195,7 @@ AWESOME EMAILS ✉ ✨
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
 - [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - Send email tests to Litmus with grunt.
 - [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp.
-- [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
+- [Mailtrap](https://mailtrap.io) - Email API and SMTP for sending transactional and bulk emails, with sandbox testing for safe dev/staging email capture.
 - [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
 - [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
 - [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
