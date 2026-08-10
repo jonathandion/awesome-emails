@@ -93,6 +93,7 @@ AWESOME EMAILS ✉ ✨
 - [email-verifier](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 - [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
 - [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
+- [FOOTERICO](https://footeri.co/) - Social media icons for your email footer that never go out of date. Live PNG URLs stay current when brands change their logos. Open API.
 
 ## Services
 
