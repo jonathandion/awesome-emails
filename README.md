@@ -84,6 +84,7 @@ AWESOME EMAILS ✉ ✨
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
 - [MailSpice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
 - [Alter.email](https://alter.email/) - A free tool to help you inline CSS, remove unused CSS, clean up your text, add extra attributes to tags, add URL tracking parameters, minify, and even prettify HTML email.
+- [rfc5322](https://github.com/AH64-dll/rfc5322) - A strict RFC 5322 email-address parser for Python. Zero dependencies, full ABNF grammar, 100 tests.
 - [Sensitive Subjects](https://sensitivesubjects.com/) - Never send an embarrassing subject line!
 - [Detergent](https://detergent.io) - A tool to prepare the text for pasting into HTML: removes invisible Unicode characters (like [ETX](https://www.fileformat.info/info/unicode/char/0003/index.htm) which can come from PSD files), encodes special characters (like turning £ into `&pound;`) and improves typography.
 - [EmailComb](http://emailcomb.com/) - Email-friendly unused CSS removal tool which does not parse and thus accepts mixed sources, including your ESP templating tags. Extras: CSS uglification and HTML/CSS minification (powered by HTML Crush).
