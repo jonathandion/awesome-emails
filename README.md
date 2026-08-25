@@ -107,6 +107,7 @@ AWESOME EMAILS ✉ ✨
 - [SparkPost](https://www.sparkpost.com/) - Your application’s emails: Delivered on time and to the inbox.
 - [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
+- [SMTPfast](https://smtpfa.st/) - Transactional email API and SMTP relay with contact management, broadcasts and a free tier.
 - [eSputnik](https://esputnik.com/en) - eSputnik is a marketing automation system trusted by more than 30 thousand loyal customers worldwide to send more than a billion emails every month.
 - [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
 - [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
@@ -203,6 +204,7 @@ AWESOME EMAILS ✉ ✨
 - [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
 - [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers.
 - [Email Spam Tester](https://kickbox.com/email-spam-tester/) - Free tool to check to see if your email will end up in the spam folder.
+- [SMTPfast Email Tools](https://smtpfa.st/tools) - Free DMARC, SPF, DKIM and BIMI checkers, email validator and subject line tester. No signup.
 
 ## Learning
 
