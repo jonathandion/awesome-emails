@@ -93,6 +93,7 @@ AWESOME EMAILS ✉ ✨
 - [email-verifier](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 - [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
 - [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
+- [Email Header Analyzer](https://nutilz.com/email-header-analyzer) - Free online tool to parse RFC 822/5322 email headers, inspect SMTP delivery hops, and verify SPF, DKIM, and DMARC alignment.
 
 ## Services
 
