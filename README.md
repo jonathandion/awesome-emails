@@ -74,6 +74,7 @@ AWESOME EMAILS ✉ ✨
 ## Tools
 
 - [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
+- [Outlook Email HTML Lint - Classic vs New](https://getreadystack.com/tools/outlook-email-html-lint) - Classic Outlook renders with the Word engine, the new Outlook with WebView2. Lint one email file against both at once, line by line, before you send.
 - [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 - [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
 - [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
