@@ -153,7 +153,7 @@ AWESOME EMAILS ✉ ✨
 - [Postmarkapp Blog](http://blog.postmarkapp.com/)
 - [Spently Blog](https://blog.spently.com/)
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
-- [Stripo.email Blog](http://www.emailmonks.com/blog/) - Email Marketing & Email Design Blog.
+- [Stripo Blog](https://stripo.email/blog/) - Email marketing and email design blog.
 - [HTML Email Blog](https://htmlemail.io/blog/)
 - [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing.
 - [Email Design Blog](https://designmodo.com/design/email-design/) - Articles, tutorial, inspiration for all email geeks.
