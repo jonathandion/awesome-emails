@@ -128,6 +128,7 @@ AWESOME EMAILS ✉ ✨
 - [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 - [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
 - [SimpleLogin](https://github.com/simple-login/app) - Self-hosted email alias solution.
+- [Xem](https://xem.email/) - Open-source email marketing with reusable templates, newsletters, audience lists, and visual automations.
 
 ## Articles
 
