@@ -73,6 +73,8 @@ AWESOME EMAILS ✉ ✨
 
 ## Tools
 
+- [MailAuthGuard](https://github.com/benjaminsamson0210/mailauthguard-js) - Open-source email deliverability auditor API checking SPF recursion depth, DKIM alignment, DMARC, and BIMI.
+- [FraudShield](https://github.com/benjaminsamson0210/fraudshield-js) - Disposable email detector and transaction fraud scoring SDK for auth flows.
 - [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 - [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 - [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
