@@ -197,6 +197,7 @@ AWESOME EMAILS ✉ ✨
 - [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp.
 - [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
 - [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
+- [mailsocket](https://mailsocket.app) - Inbox API for end-to-end tests: create a throwaway inbox, then one call waits for the verification code or magic link and returns it as JSON.
 - [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
 - [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content).
