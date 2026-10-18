@@ -20,9 +20,11 @@ AWESOME EMAILS ✉ ✨
 - [Services](#services)
 - [Self-Hosted Services](#self-hosted-services)
 - [Articles](#articles)
+- [Design](#design)
+- [Blogs](#blogs)
+- [Resources](#resources)
 - [Inspirations](#inspirations)
 - [Statistics](#statistics)
-- [Design](#design)
 - [Testing](#testing)
 - [Learning](#learning)
 
