@@ -63,7 +63,6 @@ AWESOME EMAILS ✉ ✨
 - [HTML Email Templates](https://www.htmlemailtemplates.net/) - Responsive HTML email templates for Startups & SaaS.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service.
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
-- [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
 - [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 - [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
 - [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
@@ -190,7 +189,6 @@ AWESOME EMAILS ✉ ✨
 
 ## Testing
 
-- [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
 - [Litmus](https://litmus.com/) - Test and track your emails with Litmus.
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
 - [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - Send email tests to Litmus with grunt.
@@ -203,13 +201,13 @@ AWESOME EMAILS ✉ ✨
 - [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
 - [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers.
 - [Email Spam Tester](https://kickbox.com/email-spam-tester/) - Free tool to check to see if your email will end up in the spam folder.
+- [Emailens](https://emailens.dev/) - Previews and lints HTML email across 21 clients (Outlook, Gmail, Apple Mail, Yahoo...), with fixes for React Email, MJML and Maizzle. Free tier.
 
 ## Learning
 
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) - Responsive email course by Justine Jordan and Jason Rodriguez.
 - [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches.
 - [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) - Building Responsive Email Templates with Ink.
-- [Litmus learning](https://litmus.com/community/learning) - Litmus learning resources.
 
 <hr>
 
