@@ -180,6 +180,7 @@ AWESOME EMAILS ✉ ✨
 - [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) - The most effective email marketing campaigns from Campaign Monitor.
 - [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 - [WhoSentWhat](http://whosentwhat.com) - We bring email newsletters from inbox to web
+- [They Sent It](https://theysentit.com/) - Free archive of 1.8M marketing emails from 42,000 brands, searchable by brand and email platform.
 
 ## Statistics
 
