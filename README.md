@@ -33,6 +33,7 @@ AWESOME EMAILS ✉ ✨
 - [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
 - [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
 - [JSX-email](https://jsx.email/) - JSX Mail is an email framework that uses React to create email templates. 
+- [Unitpost Email](https://www.unitpost.com/email) - React email components that render in Outlook, Gmail and Apple Mail. MIT licensed.
 
 ### Misc
 
