@@ -116,7 +116,7 @@ AWESOME EMAILS ✉ ✨
 - [Campaign Cleaner](https://campaigncleaner.com) - The Ultimate Tool for Optimized, High-Performance Email Campaigns.
 - [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails.
-- [CheckMail1](https://checkmail1.com) - Email verification API with provider-specific checks for Gmail, Outlook, Yahoo and iCloud, plus role, catch-all and disposable detection.
+- [CheckMail1](https://checkmail1.com) - Email verification API for bulk list cleaning, with disposable, role-based and catch-all detection. REST API and CSV upload; 100 free credits.
 
 ## Self-Hosted Services
 
