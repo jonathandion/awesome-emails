@@ -70,6 +70,7 @@ AWESOME EMAILS ✉ ✨
 - [Stripo](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
 - [Postcards](https://designmodo.com/postcards/) - Design responsive email templates online without coding knowledge.
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
+- [MJML Transactional Email Templates](https://github.com/ProjektAdemKacar/mjml-transactional-email-templates) - Free MJML, HTML and plain-text templates for password reset, email confirmation and welcome emails in English and German, with dark mode.
 
 ## Tools
 
