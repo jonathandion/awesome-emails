@@ -117,6 +117,8 @@ AWESOME EMAILS ✉ ✨
 - [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails.
 
+- [FairValid](https://fairvalid.com/) - Email verification for individual addresses and CSV lists, with an API and 300 free credits per month.
+
 ## Self-Hosted Services
 
 - [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
