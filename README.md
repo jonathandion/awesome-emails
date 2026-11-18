@@ -96,6 +96,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Services
 
+- [Mailkube](https://mailkube.com/) - Transactional Email API and SMTP service for Builders and Developers.
 - [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 - [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
