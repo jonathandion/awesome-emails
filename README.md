@@ -32,7 +32,9 @@ AWESOME EMAILS ✉ ✨
 
 - [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
 - [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
-- [JSX-email](https://jsx.email/) - JSX Mail is an email framework that uses React to create email templates. 
+- [JSX-email](https://jsx.email/) - JSX Mail is an email framework that uses React to create email templates.
+- [Hyper Elements](https://www.hyperelements.dev/) - An open-source content engine for AI agents and developers to create on-brand emails, PDFs and images with React, with built-in email client emulation.
+
 
 ### Misc
 
