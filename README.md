@@ -198,6 +198,7 @@ AWESOME EMAILS ✉ ✨
 - [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
 - [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
 - [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
+- [MailGate](https://github.com/Dicka18/mailgate) - Self-hosted, receive-only OTP and magic-link email inbox on Cloudflare Workers + D1 + Email Routing, with sandboxed HTML preview and a zero-dependency Playwright/E2E SDK (waitForOtp()).
 - [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content).
 - [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
